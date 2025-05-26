@@ -1,0 +1,39 @@
+{
+  "name": "bookgirl",
+  "version": "0.0.1",
+  "description": "my personal website ^u^",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xs2/bookgirl.space.git"
+  },
+  "keywords": [
+    "blog",
+    "personal",
+    "book",
+    "girl"
+  ],
+  "author": "mia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xs2/bookgirl.space/issues"
+  },
+  "homepage": "https://github.com/0xs2/bookgirl.space#readme",
+  "dependencies": {
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "typewriter-effect": "^2.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.21",
+    "@types/react": "19.1.5",
+    "typescript": "5.8.3"
+  }
+}
